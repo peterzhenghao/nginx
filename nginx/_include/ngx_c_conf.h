@@ -42,7 +42,6 @@ public:
 			}
 		}
 	};
-//---------------------------------------------------
 public:
     bool Load(const char *pconfName); 
 	const char *GetString(const char *p_itemname);
